@@ -6,10 +6,31 @@ html {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white
+  color: white;
+}
+
+.main {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+.links {
+  font-size: 18px;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
 }
