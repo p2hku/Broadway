@@ -11,11 +11,11 @@ h1 {
 
 .main {
   background-image: url(../images/the-flatiron-building.png);
-  color: white;
 }
 
 .links {
   font-size: 18px;
+  color: white;
 }
 
 h2 {
@@ -33,4 +33,16 @@ h5 {
   font-weight: bold;
   color: white;
   background-image: url(../images/the-flatiron-building.png);
+}
+
+
+
+.bottom {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
 }
